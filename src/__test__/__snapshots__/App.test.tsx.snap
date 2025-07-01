@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > should render correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    Contents
+  </div>
+</div>
+`;
